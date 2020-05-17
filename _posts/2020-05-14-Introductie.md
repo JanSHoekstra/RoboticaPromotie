@@ -4,7 +4,7 @@ title:  "Introductie"
 date:   2020-05-14 10:40:00 +0100
 tags: it wtb electro
 color: rgb(255,90,90)
-cover: '/RoboticaPromotie/assets/test.png'
+#cover: '/RoboticaPromotie/assets/test.png'
 ---
 
 Welkom op deze projectwebsite van de KaasKnabbelaars!
