@@ -3,7 +3,7 @@ layout: post
 title:  "Hoe maak je een robot?"
 date:   2020-05-17 11:20:00 +0100
 tags:   it wtb electro
-color:  rgb(255,90,90)
+color:  rgb(90,90,255)
 cover:  '/RoboticaPromotie/assets/RobotRenderFront.png'
 ---
 
