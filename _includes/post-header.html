@@ -7,7 +7,7 @@
       <nav class="top-nav">
           <ul>
               {% for i in site.nav %}
-                <li><a href="{{ {% if i==site.baseurl%} site.baseurl {% else %} "/" | append: i[1] | prepend: site.baseurl {% endif %}}}" style="color: white;">{{ i[0] }}</a></li>
+                <li><a href="{{ {% if i==site.baseurl %} site.baseurl {% else %} "/" | append: i[1] | prepend: site.baseurl {% endif %}}}" style="color: white;">{{ i[0] }}</a></li>
               {% endfor %}
           </ul>
       </nav>
@@ -27,7 +27,7 @@
       <nav class="top-nav">
           <ul>
               {% for i in site.nav %}
-                <li><a href="{{ {% if i==site.baseurl%} site.baseurl {% else %} "/" | append: i[1] | prepend: site.baseurl {% endif %}}}" style="color: white;">{{ i[0] }}</a></li>
+                <li><a href="{{ {% if i==site.baseurl %} site.baseurl {% else %} "/" | append: i[1] | prepend: site.baseurl {% endif %}}}" style="color: white;">{{ i[0] }}</a></li>
               {% endfor %}
           </ul>
       </nav>
