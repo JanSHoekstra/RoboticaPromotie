@@ -21,7 +21,7 @@ webtitle: 'UwU bot!'
 bio: ''
 about: true
 aboutyou: ''
-portraits: 'assets/profile.jpeg' # your portraits image file path
+portraits: 'assets/kaas.png' # your portraits image file path
 
 # SNS
 SNS: false
