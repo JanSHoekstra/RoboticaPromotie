@@ -11,7 +11,7 @@ nav:
   Tags: 'tags.html'
   Tijdlijn: 'timeline.html'
   Over: 'about.html'
-  Links: 'friendLink.html'
+#  Links: 'friendLink.html'
 
 # 博主
 author: true
