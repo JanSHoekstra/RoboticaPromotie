@@ -7,7 +7,7 @@ baseurl: "/RoboticaPromotie"
 
 # nav
 nav: 
-  Home: '/RoboticaPromotie'
+  Home: "/RoboticaPromotie"
   Tags: 'tags.html'
   Tijdlijn: 'timeline.html'
   Over: 'about.html'
