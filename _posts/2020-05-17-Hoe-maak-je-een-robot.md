@@ -31,6 +31,6 @@ zodat deze straks kan worden toegepast in de robot.
 Omdat we nog onderzoek aan het plegen zijn naar hoe de softwarearchitectuur in elkaar moet zitten,
 zijn we voor nu de accessoires aan het programmeren, zoals de camera's.
 
-![Rendering van de robot](/RoboticaPromotie/assets/cameraOutput.png)
+![Camera output](/RoboticaPromotie/assets/cameraOutput.png)
 
 
