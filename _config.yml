@@ -20,7 +20,8 @@ NickName: 'Robotica team 7'
 webtitle: 'UwU bot!'
 bio: ''
 about: true
-aboutyou: ''
+aboutyou: "De KaasKnabbelaars zijn een groep studenten die gezamenlijk een robot maken.
+De groep is multidisciplinair, met een brede kennis. Hieronder staat elk lid omschreven door zichzelf."
 portraits: 'assets/kaas.png' # your portraits image file path
 
 # SNS
