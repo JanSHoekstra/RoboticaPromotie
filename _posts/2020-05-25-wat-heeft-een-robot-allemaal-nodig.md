@@ -13,7 +13,8 @@ die hier zullen worden tentoongesteld.
 
 ## ICT
 ![Computer Vision](/RoboticaPromotie/assets/vision.png)
-![Computer Vision 2](/RoboticaPromotie/assets/vision2.png)
+
+![Computer Vision 2](/RoboticaPromotie/assets/vision2.PNG)
 
 ## Elektrotechniek
 
