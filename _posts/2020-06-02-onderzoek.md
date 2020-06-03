@@ -4,7 +4,7 @@ title:  "Onderzoek, onderzoek, onderzoek."
 date:   2020-06-02 09:40:00 +0100
 tags:   ict electro
 color:  rgb(180,90,180)
-cover:  '/RoboticaPromotie/assets/RobotDrawSide.PNG'
+cover:  '/RoboticaPromotie/assets/StroomDiagram.PNG'
 ---
 
 Afgelopen week lag er een focus op onderzoek, elk ICT teamlid was aan het werk met het uitzoeken van oplossingen.
