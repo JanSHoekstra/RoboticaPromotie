@@ -7,4 +7,17 @@ color:  rgb(180,90,180)
 cover:  '/RoboticaPromotie/assets/7.gif'
 ---
 
-In ontwikkeling
+Momenteel zijn we bezig met het integreren van alle robot onderdelen, in de simulatie-omgeving.
+Hierbij zijn we wat gekkigheden in de simulering tegengekomen, wat de sfeer omhoog houdt.
+
+Een robot die graag wil dansen:
+
+![Dansende robot](/RoboticaPromotie/assets/6.gif)
+
+Een robot die trucjes uitvoert:
+
+![Bewegende steen](/RoboticaPromotie/assets/7.gif)
+
+Zelf bewegende stenen:
+
+![Bewegende steen](/RoboticaPromotie/assets/10.gif)
